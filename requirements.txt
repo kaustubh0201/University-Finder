@@ -18,7 +18,6 @@ colorama==0.4.3
 courlan==0.2.3
 cryptography==2.8
 cssselect==1.1.0
-cupshelpers==1.0
 cycler==0.10.0
 cymem==2.0.5
 dbus-python==1.2.16
