@@ -26,7 +26,7 @@ SECRET_KEY = 'a!fe6joyb1q5t!f48upev_w@i3tuyqpnuxc!-cp+(22emao)lz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'sampledomain.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'https://universityfinder.herokuapp.com/']
 
 
 # Application definition
